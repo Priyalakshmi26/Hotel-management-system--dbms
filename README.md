@@ -8,5 +8,5 @@
 ->PHP <br> </h3> <br>
 <h1>**Backend ** </h1>
 <h3>->MySql</h3>
-<h2> Username:priya </h2>
-<h2> Password:priya123 </h2>
+<p> Username:priya </p>
+<p> Password:priya123 </p>
